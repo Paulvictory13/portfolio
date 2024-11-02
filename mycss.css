@@ -698,9 +698,7 @@
     }
     .portfolio-content, .row, img{
         border-radius: 20px;
-        width: 25rem;
-        height:18rem;
-        padding-left:2rem;
+        
     }
     .contact{
         display:inline;
