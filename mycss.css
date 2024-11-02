@@ -698,8 +698,14 @@
     }
     .portfolio-content, .row, img{
         border-radius: 20px;
-        
+        width: 20rem;
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        height:18rem;
+        padding-left:2rem;
     }
+    
     .contact{
         display:inline;
         background-color:transparent;
