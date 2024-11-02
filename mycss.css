@@ -159,7 +159,9 @@
     animation-delay: calc(.2s * var(--1));
     margin: 30px 15px 30px 0;
     box-shadow: 0 0 15px aqua;
-
+}
+.social-media{
+    width: 19rem;
 }
 
 .social-media a:hover {
