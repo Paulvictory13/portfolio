@@ -547,28 +547,6 @@
     padding: 10px;
     border-radius: 0.5rem;
 }
-.bottom{
-    position: fixed;
-    bottom: 2.1rem;
-    left: 2,1rem;
-    left: 0;
-    position: absolute ;
-    background: aqua;
-    color: black;
-    font-size: 20px;
-    padding: 10px;
-    border-radius: 0.5rem;
-
-    
-}
-.bototm i{
-    color: black;
-    font-size: 20px;
-    padding: 10px;
-    border-radius: 0.5rem;
-}
-
-
 
 @keyframes slideRight {
     0% {
@@ -755,11 +733,6 @@
     .navbar-nav li a{
         font-size: 1.9rem;
     }
-    .bottom {
-        bottom: 2.1rem;
-        margin-bottom: 5rem;
-
-    }
-
+   
     
 }
